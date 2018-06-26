@@ -1,2 +1,2 @@
 # LeetCode
-practice some questions on leetcode
+note some questions on leetcode
